@@ -1,0 +1,9 @@
+# 默认不做换行转换，避免 Windows/Linux 之间来回改写
+* text=auto
+
+*.mjs text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.svg text eol=lf

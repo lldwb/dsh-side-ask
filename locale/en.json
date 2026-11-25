@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Side Ask",
+    "description": "Ask in the native right sidebar: branch a temporary session off the current conversation (inheriting completed context), optionally carrying a text selection as a quote. Temporary sessions are archived when their sidebar tab closes, unless you choose to keep one."
+  }
+}
